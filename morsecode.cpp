@@ -1,5 +1,5 @@
 
-/*  morsecode in arduino. takes input from serial port*/
+/*  morsecode in arduino. takes input from serial port. Converts text to sound and light based morse code*/
 
 int ledPin = 12;
 int buzzerPin = 11; //  Must use PWM pin to control volume
